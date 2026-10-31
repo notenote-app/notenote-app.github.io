@@ -1,0 +1,2499 @@
+{
+ "nodes": [
+  {
+   "id": "merkez",
+   "type": "dynamicNode",
+   "position": {
+    "x": -320,
+    "y": -320
+   },
+   "width": 640,
+   "height": 640,
+   "style": {
+    "width": 640,
+    "height": 640
+   },
+   "data": {
+    "title": "My November Novel · 50,000 words",
+    "content": "<h2>50,000 words · 30 days · 1–30 November</h2><p>That is about <strong>1,667 words a day</strong>, roughly 40 to 90 minutes of writing. This board is your planning desk and your scoreboard: plan a little, then write a lot.</p><h3>How to use it</h3><ul><li>Before 1 November: fill in [[Premise]], [[Characters]] and [[World & Setting]]. Twenty minutes each is plenty.</li><li>Sketch the [[Plot]] with seven beats, then spread them over four weeks in the [[Scene list]].</li><li>Every day: write, then tick your day in the [[Daily tracker]].</li><li>Keep the [[Rules for November]] in sight. When you get stuck, open [[Stuck? Prompts]].</li><li>On 1 December: [[After November]].</li></ul><p>Click any card, press D to open the full editor, and type straight into the empty lines.</p>",
+    "attachments": [],
+    "shape": "sun",
+    "color": "#FDE68A",
+    "backgroundColor": "#FDE68A",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": []
+   }
+  },
+  {
+   "id": "h_premise",
+   "type": "dynamicNode",
+   "position": {
+    "x": -1300,
+    "y": -1563.0
+   },
+   "width": 400,
+   "height": 280,
+   "style": {
+    "width": 400,
+    "height": 280
+   },
+   "data": {
+    "title": "Premise",
+    "content": "<p>The seed of the book: pitch, genre, wild questions and stakes.</p><ul><li>[[One-line pitch]]</li><li>[[Genre & tone]]</li><li>[[What if…?]]</li><li>[[Stakes]]</li></ul>",
+    "attachments": [],
+    "shape": "hexagon",
+    "color": "#FCD34D",
+    "backgroundColor": "#FCD34D",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": []
+   }
+  },
+  {
+   "id": "pr_pitch",
+   "type": "dynamicNode",
+   "position": {
+    "x": -2260,
+    "y": -1726.5
+   },
+   "width": 380,
+   "height": 250,
+   "style": {
+    "width": 380,
+    "height": 250
+   },
+   "data": {
+    "title": "One-line pitch",
+    "content": "<p>Who is it about, what do they want, and what stands in the way? Aim for one sentence you could say in an elevator.</p><p><em>Example shape: When [event] happens, [hero] must [goal] before [deadline], or else [stakes].</em></p><p><strong>My version:</strong> </p><p></p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#FCD34D",
+    "backgroundColor": "#FCD34D",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "pr_genre",
+   "type": "dynamicNode",
+   "position": {
+    "x": -1810,
+    "y": -1726.5
+   },
+   "width": 380,
+   "height": 250,
+   "style": {
+    "width": 380,
+    "height": 250
+   },
+   "data": {
+    "title": "Genre & tone",
+    "content": "<p>Pick a genre and a mood: cosy mystery, dark fantasy, quiet literary, fast thriller, romcom... Two words are enough.</p><p><strong>Genre:</strong> </p><p><strong>Tone:</strong> </p><p><strong>Working title:</strong> </p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#FCD34D",
+    "backgroundColor": "#FCD34D",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "pr_whatif",
+   "type": "dynamicNode",
+   "position": {
+    "x": -2260,
+    "y": -1440.5
+   },
+   "width": 380,
+   "height": 321,
+   "style": {
+    "width": 380,
+    "height": 321
+   },
+   "data": {
+    "title": "What if…?",
+    "content": "<ul><li>What if the only person who can stop the disaster is the one who caused it?</li><li>What if every clock in town showed a different time?</li><li>What if you inherited a debt that can only be paid with a secret?</li><li>What if the villain were right about one thing?</li><li>What if the quietest person in the room is the only honest one?</li></ul><p><strong>My own what-if:</strong> </p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#FCD34D",
+    "backgroundColor": "#FCD34D",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "pr_stakes",
+   "type": "dynamicNode",
+   "position": {
+    "x": -1810,
+    "y": -1440.5
+   },
+   "width": 380,
+   "height": 224,
+   "style": {
+    "width": 380,
+    "height": 224
+   },
+   "data": {
+    "title": "Stakes",
+    "content": "<p>What does your hero lose if they fail? Make it personal first, then big. Readers keep turning pages for what could be lost.</p><p><strong>If they fail, they lose:</strong> </p><p><strong>The ticking clock:</strong> </p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#FCD34D",
+    "backgroundColor": "#FCD34D",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "h_chars",
+   "type": "dynamicNode",
+   "position": {
+    "x": -1300,
+    "y": -813.0
+   },
+   "width": 400,
+   "height": 280,
+   "style": {
+    "width": 400,
+    "height": 280
+   },
+   "data": {
+    "title": "Characters",
+    "content": "<p>Fill in want, need and flaw for the three people who carry the story.</p><ul><li>[[Protagonist]]</li><li>[[Antagonist]]</li><li>[[Ally]]</li><li>[[Voice & habits]]</li></ul>",
+    "attachments": [],
+    "shape": "hexagon",
+    "color": "#FDA4AF",
+    "backgroundColor": "#FDA4AF",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": []
+   }
+  },
+  {
+   "id": "ch_hero",
+   "type": "dynamicNode",
+   "position": {
+    "x": -2260,
+    "y": -1009.5
+   },
+   "width": 380,
+   "height": 309,
+   "style": {
+    "width": 380,
+    "height": 309
+   },
+   "data": {
+    "title": "Protagonist",
+    "content": "<p>The person your story follows. The gap between what they want and what they need drives the whole book.</p><p><strong>Name:</strong> </p><p><strong>Age & look:</strong> </p><p><strong>Want (what they chase):</strong> </p><p><strong>Need (what they truly lack):</strong> </p><p><strong>Flaw (what trips them):</strong> </p><p><strong>Secret:</strong> </p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#FDA4AF",
+    "backgroundColor": "#FDA4AF",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "ch_anta",
+   "type": "dynamicNode",
+   "position": {
+    "x": -1810,
+    "y": -1009.5
+   },
+   "width": 380,
+   "height": 328,
+   "style": {
+    "width": 380,
+    "height": 328
+   },
+   "data": {
+    "title": "Antagonist",
+    "content": "<p>The force that blocks the hero. Give them a reason that makes sense from their side; the best villains believe they are right.</p><p><strong>Name:</strong> </p><p><strong>Age & look:</strong> </p><p><strong>Want (what they chase):</strong> </p><p><strong>Need (what they truly lack):</strong> </p><p><strong>Flaw (what trips them):</strong> </p><p><strong>Secret:</strong> </p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#FDA4AF",
+    "backgroundColor": "#FDA4AF",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "ch_ally",
+   "type": "dynamicNode",
+   "position": {
+    "x": -2260,
+    "y": -645.5
+   },
+   "width": 380,
+   "height": 309,
+   "style": {
+    "width": 380,
+    "height": 309
+   },
+   "data": {
+    "title": "Ally",
+    "content": "<p>A friend, mentor or sidekick who helps, doubts or tells the hero the truth. Allies can have their own want too.</p><p><strong>Name:</strong> </p><p><strong>Age & look:</strong> </p><p><strong>Want (what they chase):</strong> </p><p><strong>Need (what they truly lack):</strong> </p><p><strong>Flaw (what trips them):</strong> </p><p><strong>Secret:</strong> </p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#FDA4AF",
+    "backgroundColor": "#FDA4AF",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "ch_voice",
+   "type": "dynamicNode",
+   "position": {
+    "x": -1810,
+    "y": -645.5
+   },
+   "width": 380,
+   "height": 250,
+   "style": {
+    "width": 380,
+    "height": 250
+   },
+   "data": {
+    "title": "Voice & habits",
+    "content": "<p>Small details make people feel real. Give each main character one habit, one phrase they repeat and one thing they never talk about.</p><p><strong>Habit:</strong> </p><p><strong>Catchphrase:</strong> </p><p><strong>Never speaks of:</strong> </p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#FDA4AF",
+    "backgroundColor": "#FDA4AF",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "h_world",
+   "type": "dynamicNode",
+   "position": {
+    "x": -1300,
+    "y": -108.0
+   },
+   "width": 400,
+   "height": 280,
+   "style": {
+    "width": 400,
+    "height": 280
+   },
+   "data": {
+    "title": "World & Setting",
+    "content": "<p>Where it happens and what the world allows.</p><ul><li>[[Where & when]]</li><li>[[Rules of the world]]</li><li>[[Key places]]</li><li>[[Senses]]</li></ul>",
+    "attachments": [],
+    "shape": "hexagon",
+    "color": "#5EEAD4",
+    "backgroundColor": "#5EEAD4",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": []
+   }
+  },
+  {
+   "id": "wo_where",
+   "type": "dynamicNode",
+   "position": {
+    "x": -2260,
+    "y": -226.5
+   },
+   "width": 380,
+   "height": 224,
+   "style": {
+    "width": 380,
+    "height": 224
+   },
+   "data": {
+    "title": "Where & when",
+    "content": "<p>A real city or an invented one? Today, 1920 or the far future? Pick the one place and time where your story hurts the most.</p><p><strong>Place:</strong> </p><p><strong>Time:</strong> </p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#5EEAD4",
+    "backgroundColor": "#5EEAD4",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "wo_rules",
+   "type": "dynamicNode",
+   "position": {
+    "x": -1810,
+    "y": -226.5
+   },
+   "width": 380,
+   "height": 250,
+   "style": {
+    "width": 380,
+    "height": 250
+   },
+   "data": {
+    "title": "Rules of the world",
+    "content": "<p>What is possible here and what is not? If there is magic, technology or a strict society, write its two or three hardest rules and their price.</p><p>1. </p><p>2. </p><p>3. </p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#5EEAD4",
+    "backgroundColor": "#5EEAD4",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "wo_places",
+   "type": "dynamicNode",
+   "position": {
+    "x": -2260,
+    "y": 59.5
+   },
+   "width": 380,
+   "height": 231,
+   "style": {
+    "width": 380,
+    "height": 231
+   },
+   "data": {
+    "title": "Key places",
+    "content": "<p>List three places where scenes will happen. One line each: what it looks like and why it matters.</p><p>1. </p><p>2. </p><p>3. </p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#5EEAD4",
+    "backgroundColor": "#5EEAD4",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "wo_senses",
+   "type": "dynamicNode",
+   "position": {
+    "x": -1810,
+    "y": 59.5
+   },
+   "width": 380,
+   "height": 231,
+   "style": {
+    "width": 380,
+    "height": 231
+   },
+   "data": {
+    "title": "Senses",
+    "content": "<p>Build a small sensory bank to paste into scenes when your descriptions run dry.</p><p><strong>Sounds:</strong> </p><p><strong>Smells:</strong> </p><p><strong>Light & weather:</strong> </p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#5EEAD4",
+    "backgroundColor": "#5EEAD4",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "h_stuck",
+   "type": "dynamicNode",
+   "position": {
+    "x": -1300,
+    "y": 630.5
+   },
+   "width": 400,
+   "height": 280,
+   "style": {
+    "width": 400,
+    "height": 280
+   },
+   "data": {
+    "title": "Stuck? Prompts",
+    "content": "<p>Ten tiny prompts. Open when the page stares back.</p><ul><li>[[Stuck on a scene]]</li><li>[[Stuck on a character]]</li><li>[[Stuck on the plot]]</li><li>[[Stuck on the words]]</li><li>[[Stuck on energy]]</li></ul>",
+    "attachments": [],
+    "shape": "hexagon",
+    "color": "#7DD3FC",
+    "backgroundColor": "#7DD3FC",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": []
+   }
+  },
+  {
+   "id": "st_0",
+   "type": "dynamicNode",
+   "position": {
+    "x": -2260,
+    "y": 400.5
+   },
+   "width": 380,
+   "height": 224,
+   "style": {
+    "width": 380,
+    "height": 224
+   },
+   "data": {
+    "title": "Stuck on a scene",
+    "content": "<ol start=\"1\"><li>Start with the last thing a character says, then write backwards.</li><li>Skip ahead: write the scene that comes after the one blocking you.</li></ol><p><em>Pick one and write for 10 minutes.</em></p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#7DD3FC",
+    "backgroundColor": "#7DD3FC",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "st_1",
+   "type": "dynamicNode",
+   "position": {
+    "x": -1810,
+    "y": 400.5
+   },
+   "width": 380,
+   "height": 220,
+   "style": {
+    "width": 380,
+    "height": 220
+   },
+   "data": {
+    "title": "Stuck on a character",
+    "content": "<ol start=\"3\"><li>Interview your hero: what are they hiding from their best friend?</li><li>Let the antagonist narrate one page in their own voice.</li></ol><p><em>Pick one and write for 10 minutes.</em></p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#7DD3FC",
+    "backgroundColor": "#7DD3FC",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "st_2",
+   "type": "dynamicNode",
+   "position": {
+    "x": -2260,
+    "y": 660.5
+   },
+   "width": 380,
+   "height": 220,
+   "style": {
+    "width": 380,
+    "height": 220
+   },
+   "data": {
+    "title": "Stuck on the plot",
+    "content": "<ol start=\"5\"><li>Make things go wrong in the worst possible way.</li><li>Bring in a knock at the door, a letter or a phone call that changes the plan.</li></ol><p><em>Pick one and write for 10 minutes.</em></p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#7DD3FC",
+    "backgroundColor": "#7DD3FC",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "st_3",
+   "type": "dynamicNode",
+   "position": {
+    "x": -1810,
+    "y": 660.5
+   },
+   "width": 380,
+   "height": 220,
+   "style": {
+    "width": 380,
+    "height": 220
+   },
+   "data": {
+    "title": "Stuck on the words",
+    "content": "<ol start=\"7\"><li>Describe the room using only sounds and smells.</li><li>Write 200 words of pure dialogue with no tags or description.</li></ol><p><em>Pick one and write for 10 minutes.</em></p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#7DD3FC",
+    "backgroundColor": "#7DD3FC",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "st_4",
+   "type": "dynamicNode",
+   "position": {
+    "x": -1810,
+    "y": 916.5
+   },
+   "width": 380,
+   "height": 224,
+   "style": {
+    "width": 380,
+    "height": 224
+   },
+   "data": {
+    "title": "Stuck on energy",
+    "content": "<ol start=\"9\"><li>Set a ten-minute timer and type without stopping, even nonsense.</li><li>Change your seat, your room or your pen. Your brain notices.</li></ol><p><em>Pick one and write for 10 minutes.</em></p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#7DD3FC",
+    "backgroundColor": "#7DD3FC",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "h_after",
+   "type": "dynamicNode",
+   "position": {
+    "x": -1300,
+    "y": 1348.5
+   },
+   "width": 400,
+   "height": 280,
+   "style": {
+    "width": 400,
+    "height": 280
+   },
+   "data": {
+    "title": "After November",
+    "content": "<p>The draft is not the book. What to do on 1 December and after.</p><ul><li>[[1 · Rest]]</li><li>[[2 · Read, don't fix]]</li><li>[[3 · Revise in layers]]</li><li>[[4 · Share & celebrate]]</li></ul>",
+    "attachments": [],
+    "shape": "hexagon",
+    "color": "#CBD5E1",
+    "backgroundColor": "#CBD5E1",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": []
+   }
+  },
+  {
+   "id": "af_rest",
+   "type": "dynamicNode",
+   "position": {
+    "x": -2260,
+    "y": 1250.5
+   },
+   "width": 380,
+   "height": 220,
+   "style": {
+    "width": 380,
+    "height": 220
+   },
+   "data": {
+    "title": "1 · Rest",
+    "content": "<p>You wrote a draft. That is a big deal. Take at least a week away from the manuscript. Sleep, walk, read something else.</p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#CBD5E1",
+    "backgroundColor": "#CBD5E1",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "af_read",
+   "type": "dynamicNode",
+   "position": {
+    "x": -1810,
+    "y": 1250.5
+   },
+   "width": 380,
+   "height": 220,
+   "style": {
+    "width": 380,
+    "height": 220
+   },
+   "data": {
+    "title": "2 · Read, don't fix",
+    "content": "<p>Read the whole draft once, with a pen but without changing a word. Mark what works, what confuses you and what is missing.</p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#CBD5E1",
+    "backgroundColor": "#CBD5E1",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "af_revise",
+   "type": "dynamicNode",
+   "position": {
+    "x": -2260,
+    "y": 1506.5
+   },
+   "width": 380,
+   "height": 220,
+   "style": {
+    "width": 380,
+    "height": 220
+   },
+   "data": {
+    "title": "3 · Revise in layers",
+    "content": "<p>Big things first: structure, characters, pacing. Then scenes, then sentences, and typos last. Replace each [TK] note with real research.</p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#CBD5E1",
+    "backgroundColor": "#CBD5E1",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "af_share",
+   "type": "dynamicNode",
+   "position": {
+    "x": -1810,
+    "y": 1506.5
+   },
+   "width": 380,
+   "height": 220,
+   "style": {
+    "width": 380,
+    "height": 220
+   },
+   "data": {
+    "title": "4 · Share & celebrate",
+    "content": "<p>Show one or two trusted readers, ask specific questions, and thank yourself. You did what most people only talk about.</p><p><strong>My version:</strong> </p><p></p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#CBD5E1",
+    "backgroundColor": "#CBD5E1",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "h_plot",
+   "type": "dynamicNode",
+   "position": {
+    "x": 900,
+    "y": -1101.0
+   },
+   "width": 400,
+   "height": 280,
+   "style": {
+    "width": 400,
+    "height": 280
+   },
+   "data": {
+    "title": "Plot",
+    "content": "<p>Seven beats of a classic story. Fill the \"My version\" lines in any order.</p><ul><li>[[1 · Hook]]</li><li>[[2 · Inciting incident]]</li><li>[[3 · First plot point]]</li><li>[[4 · Midpoint]]</li><li>[[5 · Crisis]]</li><li>[[6 · Climax]]</li><li>[[7 · Resolution]]</li></ul>",
+    "attachments": [],
+    "shape": "hexagon",
+    "color": "#A5B4FC",
+    "backgroundColor": "#A5B4FC",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": []
+   }
+  },
+  {
+   "id": "pl_hook",
+   "type": "dynamicNode",
+   "position": {
+    "x": 1430,
+    "y": -1887.0
+   },
+   "width": 380,
+   "height": 231,
+   "style": {
+    "width": 380,
+    "height": 231
+   },
+   "data": {
+    "title": "1 · Hook",
+    "content": "<p><strong>Days 1–2 (words 1–3,300)</strong></p><p>Open on a moment that makes the reader curious: a strange image, a question, a voice. Show your hero in their ordinary world, with a hint that it will not last.</p><p><strong>My version:</strong> </p><p></p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#A5B4FC",
+    "backgroundColor": "#A5B4FC",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "pl_inc",
+   "type": "dynamicNode",
+   "position": {
+    "x": 1430,
+    "y": -1620.0
+   },
+   "width": 380,
+   "height": 231,
+   "style": {
+    "width": 380,
+    "height": 231
+   },
+   "data": {
+    "title": "2 · Inciting incident",
+    "content": "<p><strong>Around Day 4 (word 6,000)</strong></p><p>The event that knocks the hero's world off balance. Something arrives, breaks or is revealed, and a question starts that the book must answer.</p><p><strong>My version:</strong> </p><p></p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#A5B4FC",
+    "backgroundColor": "#A5B4FC",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "pl_pp1",
+   "type": "dynamicNode",
+   "position": {
+    "x": 1430,
+    "y": -1353.0
+   },
+   "width": 380,
+   "height": 231,
+   "style": {
+    "width": 380,
+    "height": 231
+   },
+   "data": {
+    "title": "3 · First plot point",
+    "content": "<p><strong>Around Day 8 (word 12,500)</strong></p><p>The hero commits and cannot go back. End of the first act: they leave the ordinary world for the story's real problem.</p><p><strong>My version:</strong> </p><p></p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#A5B4FC",
+    "backgroundColor": "#A5B4FC",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "pl_mid",
+   "type": "dynamicNode",
+   "position": {
+    "x": 1430,
+    "y": -1086.0
+   },
+   "width": 380,
+   "height": 231,
+   "style": {
+    "width": 380,
+    "height": 231
+   },
+   "data": {
+    "title": "4 · Midpoint",
+    "content": "<p><strong>Around Day 15 (word 25,000)</strong></p><p>A twist or a discovery that flips the story: the hero stops reacting and starts acting, or learns the problem is bigger than they thought.</p><p><strong>My version:</strong> </p><p></p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#A5B4FC",
+    "backgroundColor": "#A5B4FC",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "pl_crisis",
+   "type": "dynamicNode",
+   "position": {
+    "x": 1430,
+    "y": -819.0
+   },
+   "width": 380,
+   "height": 231,
+   "style": {
+    "width": 380,
+    "height": 231
+   },
+   "data": {
+    "title": "5 · Crisis",
+    "content": "<p><strong>Around Day 23 (word 37,500)</strong></p><p>The lowest point. The plan fails, someone is lost, the hero sees their flaw. It should feel as if all is lost, so the climax can feel earned.</p><p><strong>My version:</strong> </p><p></p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#A5B4FC",
+    "backgroundColor": "#A5B4FC",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "pl_climax",
+   "type": "dynamicNode",
+   "position": {
+    "x": 1430,
+    "y": -552.0
+   },
+   "width": 380,
+   "height": 231,
+   "style": {
+    "width": 380,
+    "height": 231
+   },
+   "data": {
+    "title": "6 · Climax",
+    "content": "<p><strong>Around Day 27 (word 45,000)</strong></p><p>The final confrontation. The hero uses what they have learned to face the antagonist or the big choice. Their want and need finally collide.</p><p><strong>My version:</strong> </p><p></p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#A5B4FC",
+    "backgroundColor": "#A5B4FC",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "pl_res",
+   "type": "dynamicNode",
+   "position": {
+    "x": 1430,
+    "y": -285.0
+   },
+   "width": 380,
+   "height": 250,
+   "style": {
+    "width": 380,
+    "height": 250
+   },
+   "data": {
+    "title": "7 · Resolution",
+    "content": "<p><strong>Days 28–30 (words 46,700–50,000)</strong></p><p>Show the new normal. Tie the loose threads and echo the opening so the reader sees how far the hero has come. You may stop mid-story: 50,000 words is a draft, not an ending.</p><p><strong>My version:</strong> </p><p></p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#A5B4FC",
+    "backgroundColor": "#A5B4FC",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "h_track",
+   "type": "dynamicNode",
+   "position": {
+    "x": 900,
+    "y": 453.0
+   },
+   "width": 400,
+   "height": 280,
+   "style": {
+    "width": 400,
+    "height": 280
+   },
+   "data": {
+    "title": "Daily tracker",
+    "content": "<p>30 days, 1,667 words a day. Tick a day when you reach its total.</p><ul><li>[[Days 1–10]]</li><li>[[Days 11–20]]</li><li>[[Days 21–30]]</li></ul>",
+    "attachments": [],
+    "shape": "hexagon",
+    "color": "#86EFAC",
+    "backgroundColor": "#86EFAC",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": []
+   }
+  },
+  {
+   "id": "tr_0",
+   "type": "dynamicNode",
+   "position": {
+    "x": 1430,
+    "y": 115.0
+   },
+   "width": 380,
+   "height": 460,
+   "style": {
+    "width": 380,
+    "height": 460
+   },
+   "data": {
+    "title": "Days 1–10",
+    "content": "<p>Tick each day once you have written it.</p>",
+    "attachments": [],
+    "shape": "square",
+    "color": "#DCFCE7",
+    "backgroundColor": "#DCFCE7",
+    "textColor": "#1E293B",
+    "contentMode": "checklist",
+    "checklistItems": [
+     {
+      "id": "d1",
+      "text": "Day 1 · 1,667 words (total 1,667)",
+      "completed": false
+     },
+     {
+      "id": "d2",
+      "text": "Day 2 · 1,666 words (total 3,333)",
+      "completed": false
+     },
+     {
+      "id": "d3",
+      "text": "Day 3 · 1,667 words (total 5,000)",
+      "completed": false
+     },
+     {
+      "id": "d4",
+      "text": "Day 4 · 1,667 words (total 6,667)",
+      "completed": false
+     },
+     {
+      "id": "d5",
+      "text": "Day 5 · 1,666 words (total 8,333)",
+      "completed": false
+     },
+     {
+      "id": "d6",
+      "text": "Day 6 · 1,667 words (total 10,000)",
+      "completed": false
+     },
+     {
+      "id": "d7",
+      "text": "Day 7 · 1,667 words (total 11,667)",
+      "completed": false
+     },
+     {
+      "id": "d8",
+      "text": "Day 8 · 1,666 words (total 13,333)",
+      "completed": false
+     },
+     {
+      "id": "d9",
+      "text": "Day 9 · 1,667 words (total 15,000)",
+      "completed": false
+     },
+     {
+      "id": "d10",
+      "text": "Day 10 · 1,667 words (total 16,667)",
+      "completed": false
+     }
+    ],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "tr_1",
+   "type": "dynamicNode",
+   "position": {
+    "x": 1880,
+    "y": 115.0
+   },
+   "width": 380,
+   "height": 460,
+   "style": {
+    "width": 380,
+    "height": 460
+   },
+   "data": {
+    "title": "Days 11–20",
+    "content": "<p>Tick each day once you have written it.</p>",
+    "attachments": [],
+    "shape": "square",
+    "color": "#DCFCE7",
+    "backgroundColor": "#DCFCE7",
+    "textColor": "#1E293B",
+    "contentMode": "checklist",
+    "checklistItems": [
+     {
+      "id": "d11",
+      "text": "Day 11 · 1,666 words (total 18,333)",
+      "completed": false
+     },
+     {
+      "id": "d12",
+      "text": "Day 12 · 1,667 words (total 20,000)",
+      "completed": false
+     },
+     {
+      "id": "d13",
+      "text": "Day 13 · 1,667 words (total 21,667)",
+      "completed": false
+     },
+     {
+      "id": "d14",
+      "text": "Day 14 · 1,666 words (total 23,333)",
+      "completed": false
+     },
+     {
+      "id": "d15",
+      "text": "Day 15 · 1,667 words (total 25,000)",
+      "completed": false
+     },
+     {
+      "id": "d16",
+      "text": "Day 16 · 1,667 words (total 26,667)",
+      "completed": false
+     },
+     {
+      "id": "d17",
+      "text": "Day 17 · 1,666 words (total 28,333)",
+      "completed": false
+     },
+     {
+      "id": "d18",
+      "text": "Day 18 · 1,667 words (total 30,000)",
+      "completed": false
+     },
+     {
+      "id": "d19",
+      "text": "Day 19 · 1,667 words (total 31,667)",
+      "completed": false
+     },
+     {
+      "id": "d20",
+      "text": "Day 20 · 1,666 words (total 33,333)",
+      "completed": false
+     }
+    ],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "tr_2",
+   "type": "dynamicNode",
+   "position": {
+    "x": 1430,
+    "y": 611.0
+   },
+   "width": 380,
+   "height": 460,
+   "style": {
+    "width": 380,
+    "height": 460
+   },
+   "data": {
+    "title": "Days 21–30",
+    "content": "<p>Tick each day once you have written it.</p>",
+    "attachments": [],
+    "shape": "square",
+    "color": "#DCFCE7",
+    "backgroundColor": "#DCFCE7",
+    "textColor": "#1E293B",
+    "contentMode": "checklist",
+    "checklistItems": [
+     {
+      "id": "d21",
+      "text": "Day 21 · 1,667 words (total 35,000)",
+      "completed": false
+     },
+     {
+      "id": "d22",
+      "text": "Day 22 · 1,667 words (total 36,667)",
+      "completed": false
+     },
+     {
+      "id": "d23",
+      "text": "Day 23 · 1,666 words (total 38,333)",
+      "completed": false
+     },
+     {
+      "id": "d24",
+      "text": "Day 24 · 1,667 words (total 40,000)",
+      "completed": false
+     },
+     {
+      "id": "d25",
+      "text": "Day 25 · 1,667 words (total 41,667)",
+      "completed": false
+     },
+     {
+      "id": "d26",
+      "text": "Day 26 · 1,666 words (total 43,333)",
+      "completed": false
+     },
+     {
+      "id": "d27",
+      "text": "Day 27 · 1,667 words (total 45,000)",
+      "completed": false
+     },
+     {
+      "id": "d28",
+      "text": "Day 28 · 1,667 words (total 46,667)",
+      "completed": false
+     },
+     {
+      "id": "d29",
+      "text": "Day 29 · 1,666 words (total 48,333)",
+      "completed": false
+     },
+     {
+      "id": "d30",
+      "text": "Day 30 · 1,667 words (total 50,000)",
+      "completed": false
+     }
+    ],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "h_scenes",
+   "type": "dynamicNode",
+   "position": {
+    "x": 900,
+    "y": 1394.0
+   },
+   "width": 400,
+   "height": 280,
+   "style": {
+    "width": 400,
+    "height": 280
+   },
+   "data": {
+    "title": "Scene list",
+    "content": "<p>Four weeks, four word goals. Plan five scenes per week and tick them off.</p><ul><li>[[Week 1 · Days 1–7]]</li><li>[[Week 2 · Days 8–14]]</li><li>[[Week 3 · Days 15–21]]</li><li>[[Week 4 · Days 22–30]]</li></ul>",
+    "attachments": [],
+    "shape": "hexagon",
+    "color": "#D8B4FE",
+    "backgroundColor": "#D8B4FE",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": []
+   }
+  },
+  {
+   "id": "sc_w1",
+   "type": "dynamicNode",
+   "position": {
+    "x": 1430,
+    "y": 1181.0
+   },
+   "width": 380,
+   "height": 335,
+   "style": {
+    "width": 380,
+    "height": 335
+   },
+   "data": {
+    "title": "Week 1 · Days 1–7",
+    "content": "<p>Aim: [[1 · Hook]] and [[2 · Inciting incident]]. Introduce the hero, the world and the spark.</p><p><strong>Word total by the end of this week:</strong> 11,667</p><p><strong>Scenes to write:</strong></p><ol><li>who / where / what changes</li><li>who / where / what changes</li><li>who / where / what changes</li><li>who / where / what changes</li><li>who / where / what changes</li></ol>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#D8B4FE",
+    "backgroundColor": "#D8B4FE",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "sc_w2",
+   "type": "dynamicNode",
+   "position": {
+    "x": 1880,
+    "y": 1181.0
+   },
+   "width": 380,
+   "height": 335,
+   "style": {
+    "width": 380,
+    "height": 335
+   },
+   "data": {
+    "title": "Week 2 · Days 8–14",
+    "content": "<p>Aim: [[3 · First plot point]], then the road to the middle. Complications grow.</p><p><strong>Word total by the end of this week:</strong> 23,333</p><p><strong>Scenes to write:</strong></p><ol><li>who / where / what changes</li><li>who / where / what changes</li><li>who / where / what changes</li><li>who / where / what changes</li><li>who / where / what changes</li></ol>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#D8B4FE",
+    "backgroundColor": "#D8B4FE",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "sc_w3",
+   "type": "dynamicNode",
+   "position": {
+    "x": 1430,
+    "y": 1552.0
+   },
+   "width": 380,
+   "height": 335,
+   "style": {
+    "width": 380,
+    "height": 335
+   },
+   "data": {
+    "title": "Week 3 · Days 15–21",
+    "content": "<p>Aim: [[4 · Midpoint]] and the long middle. The saggy part: lean on surprises and subplots.</p><p><strong>Word total by the end of this week:</strong> 35,000</p><p><strong>Scenes to write:</strong></p><ol><li>who / where / what changes</li><li>who / where / what changes</li><li>who / where / what changes</li><li>who / where / what changes</li><li>who / where / what changes</li></ol>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#D8B4FE",
+    "backgroundColor": "#D8B4FE",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "sc_w4",
+   "type": "dynamicNode",
+   "position": {
+    "x": 1880,
+    "y": 1552.0
+   },
+   "width": 380,
+   "height": 335,
+   "style": {
+    "width": 380,
+    "height": 335
+   },
+   "data": {
+    "title": "Week 4 · Days 22–30",
+    "content": "<p>Aim: [[5 · Crisis]], [[6 · Climax]] and [[7 · Resolution]]. Run for the finish line.</p><p><strong>Word total by the end of this week:</strong> 50,000</p><p><strong>Scenes to write:</strong></p><ol><li>who / where / what changes</li><li>who / where / what changes</li><li>who / where / what changes</li><li>who / where / what changes</li><li>who / where / what changes</li></ol>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#D8B4FE",
+    "backgroundColor": "#D8B4FE",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "mountain",
+   "type": "dynamicNode",
+   "position": {
+    "x": 500,
+    "y": 463.0
+   },
+   "width": 320,
+   "height": 280,
+   "style": {
+    "width": 320,
+    "height": 280
+   },
+   "data": {
+    "title": "Progress mountain",
+    "content": "<p>Day 1 at the foot, Day 30 at the flag.</p>",
+    "attachments": [],
+    "shape": "square",
+    "color": "#FFFFFF",
+    "backgroundColor": "#FFFFFF",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "drawing",
+    "drawingPaths": [
+     "{\"d\": \"M20 230 L95 130 L130 165 L205 45 L285 230 Z\", \"color\": \"#475569\", \"strokeWidth\": 5}",
+     "{\"d\": \"M205 45 L205 12\", \"color\": \"#B45309\", \"strokeWidth\": 5}",
+     "{\"d\": \"M205 12 L240 24 L205 36\", \"color\": \"#DC2626\", \"strokeWidth\": 5}",
+     "{\"d\": \"M20 230 L285 230\", \"color\": \"#16A34A\", \"strokeWidth\": 6}",
+     "{\"d\": \"M48 205 L52 205 M80 160 L84 160 M120 120 L124 120 M160 85 L164 85\", \"color\": \"#16A34A\", \"strokeWidth\": 9}"
+    ],
+    "drawingColor": "#475569",
+    "drawingStrokeWidth": 4
+   }
+  },
+  {
+   "id": "h_rules",
+   "type": "dynamicNode",
+   "position": {
+    "x": -200.0,
+    "y": -680
+   },
+   "width": 400,
+   "height": 280,
+   "style": {
+    "width": 400,
+    "height": 280
+   },
+   "data": {
+    "title": "Rules for November",
+    "content": "<p>Eight rules that keep you moving.</p><ul><li>[[Don't edit, just write]]</li><li>[[Research later]]</li><li>[[Same time every day]]</li><li>[[Bad words are still words]]</li></ul>",
+    "attachments": [],
+    "shape": "hexagon",
+    "color": "#FCA5A5",
+    "backgroundColor": "#FCA5A5",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": []
+   }
+  },
+  {
+   "id": "ru_0",
+   "type": "dynamicNode",
+   "position": {
+    "x": -345.0,
+    "y": -1000
+   },
+   "width": 330,
+   "height": 250,
+   "style": {
+    "width": 330,
+    "height": 250
+   },
+   "data": {
+    "title": "Don't edit, just write",
+    "content": "<p>No backspace marathons. If a sentence is bad, type the better one below it and move on. December is for fixing.</p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#FEE2E2",
+    "backgroundColor": "#FEE2E2",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "ru_1",
+   "type": "dynamicNode",
+   "position": {
+    "x": 15.0,
+    "y": -1000
+   },
+   "width": 330,
+   "height": 250,
+   "style": {
+    "width": 330,
+    "height": 250
+   },
+   "data": {
+    "title": "Research later",
+    "content": "<p>Don't stop to check a fact. Write [TK] (to come) and keep going. Search for every [TK] once November is over.</p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#FEE2E2",
+    "backgroundColor": "#FEE2E2",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "ru_2",
+   "type": "dynamicNode",
+   "position": {
+    "x": -345.0,
+    "y": -1290
+   },
+   "width": 330,
+   "height": 250,
+   "style": {
+    "width": 330,
+    "height": 250
+   },
+   "data": {
+    "title": "Same time every day",
+    "content": "<p>Pick a slot and defend it: before work, at lunch, after dinner. A routine beats motivation.</p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#FEE2E2",
+    "backgroundColor": "#FEE2E2",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "ru_3",
+   "type": "dynamicNode",
+   "position": {
+    "x": 15.0,
+    "y": -1290
+   },
+   "width": 330,
+   "height": 250,
+   "style": {
+    "width": 330,
+    "height": 250
+   },
+   "data": {
+    "title": "Bad words are still words",
+    "content": "<p>The counter does not judge quality. A clumsy page can be rewritten; an empty page cannot.</p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#FEE2E2",
+    "backgroundColor": "#FEE2E2",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "ru_4",
+   "type": "dynamicNode",
+   "position": {
+    "x": -345.0,
+    "y": -1580
+   },
+   "width": 330,
+   "height": 250,
+   "style": {
+    "width": 330,
+    "height": 250
+   },
+   "data": {
+    "title": "Never zero",
+    "content": "<p>On a bad day, write 100 words and close the file. Keeping the chain alive matters more than the number.</p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#FEE2E2",
+    "backgroundColor": "#FEE2E2",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "ru_5",
+   "type": "dynamicNode",
+   "position": {
+    "x": 15.0,
+    "y": -1580
+   },
+   "width": 330,
+   "height": 250,
+   "style": {
+    "width": 330,
+    "height": 250
+   },
+   "data": {
+    "title": "Catch up kindly",
+    "content": "<p>Missed a day? Add a few hundred words to each of the next days, or use a weekend. No guilt, just arithmetic.</p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#FEE2E2",
+    "backgroundColor": "#FEE2E2",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "ru_6",
+   "type": "dynamicNode",
+   "position": {
+    "x": -345.0,
+    "y": -1870
+   },
+   "width": 330,
+   "height": 250,
+   "style": {
+    "width": 330,
+    "height": 250
+   },
+   "data": {
+    "title": "Count only new words",
+    "content": "<p>Deleted a scene? Fine, but don't subtract. Count what you add and let the draft be messy.</p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#FEE2E2",
+    "backgroundColor": "#FEE2E2",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  },
+  {
+   "id": "ru_7",
+   "type": "dynamicNode",
+   "position": {
+    "x": 15.0,
+    "y": -1870
+   },
+   "width": 330,
+   "height": 250,
+   "style": {
+    "width": 330,
+    "height": 250
+   },
+   "data": {
+    "title": "Tell someone",
+    "content": "<p>Tell one friend what you are doing and send them your total each week. A witness helps.</p>",
+    "attachments": [],
+    "shape": "rounded",
+    "color": "#FEE2E2",
+    "backgroundColor": "#FEE2E2",
+    "textColor": "#1E293B",
+    "contentMode": "standard",
+    "checklistItems": [],
+    "nodeType": "detailed"
+   }
+  }
+ ],
+ "edges": [
+  {
+   "id": "e-merkez-h_premise",
+   "source": "merkez",
+   "target": "h_premise",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#D97706",
+    "strokeWidth": 5
+   },
+   "data": {
+    "strokeColor": "#D97706",
+    "strokeWidth": 5,
+    "edgeType": "bezier",
+    "label": "Premise"
+   }
+  },
+  {
+   "id": "e-pr_genre-pr_pitch",
+   "source": "pr_genre",
+   "target": "pr_pitch",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#D97706",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#D97706",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-h_premise-pr_genre",
+   "source": "h_premise",
+   "target": "pr_genre",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#D97706",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#D97706",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-pr_stakes-pr_whatif",
+   "source": "pr_stakes",
+   "target": "pr_whatif",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#D97706",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#D97706",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-h_premise-pr_stakes",
+   "source": "h_premise",
+   "target": "pr_stakes",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#D97706",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#D97706",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-merkez-h_chars",
+   "source": "merkez",
+   "target": "h_chars",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#E11D48",
+    "strokeWidth": 5
+   },
+   "data": {
+    "strokeColor": "#E11D48",
+    "strokeWidth": 5,
+    "edgeType": "bezier",
+    "label": "Characters"
+   }
+  },
+  {
+   "id": "e-ch_anta-ch_hero",
+   "source": "ch_anta",
+   "target": "ch_hero",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#E11D48",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#E11D48",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-h_chars-ch_anta",
+   "source": "h_chars",
+   "target": "ch_anta",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#E11D48",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#E11D48",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-ch_voice-ch_ally",
+   "source": "ch_voice",
+   "target": "ch_ally",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#E11D48",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#E11D48",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-h_chars-ch_voice",
+   "source": "h_chars",
+   "target": "ch_voice",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#E11D48",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#E11D48",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-merkez-h_world",
+   "source": "merkez",
+   "target": "h_world",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#0D9488",
+    "strokeWidth": 5
+   },
+   "data": {
+    "strokeColor": "#0D9488",
+    "strokeWidth": 5,
+    "edgeType": "bezier",
+    "label": "World & Setting"
+   }
+  },
+  {
+   "id": "e-wo_rules-wo_where",
+   "source": "wo_rules",
+   "target": "wo_where",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#0D9488",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#0D9488",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-h_world-wo_rules",
+   "source": "h_world",
+   "target": "wo_rules",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#0D9488",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#0D9488",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-wo_senses-wo_places",
+   "source": "wo_senses",
+   "target": "wo_places",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#0D9488",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#0D9488",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-h_world-wo_senses",
+   "source": "h_world",
+   "target": "wo_senses",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#0D9488",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#0D9488",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-merkez-h_stuck",
+   "source": "merkez",
+   "target": "h_stuck",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#0284C7",
+    "strokeWidth": 5
+   },
+   "data": {
+    "strokeColor": "#0284C7",
+    "strokeWidth": 5,
+    "edgeType": "bezier",
+    "label": "Stuck? Prompts"
+   }
+  },
+  {
+   "id": "e-st_1-st_0",
+   "source": "st_1",
+   "target": "st_0",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#0284C7",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#0284C7",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-h_stuck-st_1",
+   "source": "h_stuck",
+   "target": "st_1",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#0284C7",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#0284C7",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-st_3-st_2",
+   "source": "st_3",
+   "target": "st_2",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#0284C7",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#0284C7",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-h_stuck-st_3",
+   "source": "h_stuck",
+   "target": "st_3",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#0284C7",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#0284C7",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-h_stuck-st_4",
+   "source": "h_stuck",
+   "target": "st_4",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#0284C7",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#0284C7",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-merkez-h_after",
+   "source": "merkez",
+   "target": "h_after",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#475569",
+    "strokeWidth": 5
+   },
+   "data": {
+    "strokeColor": "#475569",
+    "strokeWidth": 5,
+    "edgeType": "bezier",
+    "label": "After November"
+   }
+  },
+  {
+   "id": "e-af_read-af_rest",
+   "source": "af_read",
+   "target": "af_rest",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#475569",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#475569",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-h_after-af_read",
+   "source": "h_after",
+   "target": "af_read",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#475569",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#475569",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-af_share-af_revise",
+   "source": "af_share",
+   "target": "af_revise",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#475569",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#475569",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-h_after-af_share",
+   "source": "h_after",
+   "target": "af_share",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#475569",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#475569",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-merkez-h_plot",
+   "source": "merkez",
+   "target": "h_plot",
+   "sourceHandle": "right-source",
+   "targetHandle": "left-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#4F46E5",
+    "strokeWidth": 5
+   },
+   "data": {
+    "strokeColor": "#4F46E5",
+    "strokeWidth": 5,
+    "edgeType": "bezier",
+    "label": "Plot"
+   }
+  },
+  {
+   "id": "e-h_plot-pl_hook",
+   "source": "h_plot",
+   "target": "pl_hook",
+   "sourceHandle": "right-source",
+   "targetHandle": "left-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#4F46E5",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#4F46E5",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-h_plot-pl_inc",
+   "source": "h_plot",
+   "target": "pl_inc",
+   "sourceHandle": "right-source",
+   "targetHandle": "left-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#4F46E5",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#4F46E5",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-h_plot-pl_pp1",
+   "source": "h_plot",
+   "target": "pl_pp1",
+   "sourceHandle": "right-source",
+   "targetHandle": "left-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#4F46E5",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#4F46E5",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-h_plot-pl_mid",
+   "source": "h_plot",
+   "target": "pl_mid",
+   "sourceHandle": "right-source",
+   "targetHandle": "left-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#4F46E5",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#4F46E5",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-h_plot-pl_crisis",
+   "source": "h_plot",
+   "target": "pl_crisis",
+   "sourceHandle": "right-source",
+   "targetHandle": "left-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#4F46E5",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#4F46E5",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-h_plot-pl_climax",
+   "source": "h_plot",
+   "target": "pl_climax",
+   "sourceHandle": "right-source",
+   "targetHandle": "left-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#4F46E5",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#4F46E5",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-h_plot-pl_res",
+   "source": "h_plot",
+   "target": "pl_res",
+   "sourceHandle": "right-source",
+   "targetHandle": "left-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#4F46E5",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#4F46E5",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-merkez-h_track",
+   "source": "merkez",
+   "target": "h_track",
+   "sourceHandle": "right-source",
+   "targetHandle": "left-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#16A34A",
+    "strokeWidth": 5
+   },
+   "data": {
+    "strokeColor": "#16A34A",
+    "strokeWidth": 5,
+    "edgeType": "bezier",
+    "label": "Daily tracker"
+   }
+  },
+  {
+   "id": "e-h_track-tr_0",
+   "source": "h_track",
+   "target": "tr_0",
+   "sourceHandle": "right-source",
+   "targetHandle": "left-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#16A34A",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#16A34A",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-tr_0-tr_1",
+   "source": "tr_0",
+   "target": "tr_1",
+   "sourceHandle": "right-source",
+   "targetHandle": "left-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#16A34A",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#16A34A",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-h_track-tr_2",
+   "source": "h_track",
+   "target": "tr_2",
+   "sourceHandle": "right-source",
+   "targetHandle": "left-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#16A34A",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#16A34A",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-merkez-h_scenes",
+   "source": "merkez",
+   "target": "h_scenes",
+   "sourceHandle": "right-source",
+   "targetHandle": "left-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#9333EA",
+    "strokeWidth": 5
+   },
+   "data": {
+    "strokeColor": "#9333EA",
+    "strokeWidth": 5,
+    "edgeType": "bezier",
+    "label": "Scene list"
+   }
+  },
+  {
+   "id": "e-h_scenes-sc_w1",
+   "source": "h_scenes",
+   "target": "sc_w1",
+   "sourceHandle": "right-source",
+   "targetHandle": "left-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#9333EA",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#9333EA",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-sc_w1-sc_w2",
+   "source": "sc_w1",
+   "target": "sc_w2",
+   "sourceHandle": "right-source",
+   "targetHandle": "left-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#9333EA",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#9333EA",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-h_scenes-sc_w3",
+   "source": "h_scenes",
+   "target": "sc_w3",
+   "sourceHandle": "right-source",
+   "targetHandle": "left-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#9333EA",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#9333EA",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-sc_w3-sc_w4",
+   "source": "sc_w3",
+   "target": "sc_w4",
+   "sourceHandle": "right-source",
+   "targetHandle": "left-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#9333EA",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#9333EA",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-h_track-mountain",
+   "source": "h_track",
+   "target": "mountain",
+   "sourceHandle": "left-source",
+   "targetHandle": "right-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#16A34A",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#16A34A",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-merkez-h_rules",
+   "source": "merkez",
+   "target": "h_rules",
+   "sourceHandle": "top-source",
+   "targetHandle": "bottom-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#DC2626",
+    "strokeWidth": 5
+   },
+   "data": {
+    "strokeColor": "#DC2626",
+    "strokeWidth": 5,
+    "edgeType": "bezier",
+    "label": "Rules for November"
+   }
+  },
+  {
+   "id": "e-h_rules-ru_0",
+   "source": "h_rules",
+   "target": "ru_0",
+   "sourceHandle": "top-source",
+   "targetHandle": "bottom-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#DC2626",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#DC2626",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-h_rules-ru_1",
+   "source": "h_rules",
+   "target": "ru_1",
+   "sourceHandle": "top-source",
+   "targetHandle": "bottom-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#DC2626",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#DC2626",
+    "strokeWidth": 3,
+    "edgeType": "bezier"
+   }
+  },
+  {
+   "id": "e-ru_0-ru_2",
+   "source": "ru_0",
+   "target": "ru_2",
+   "sourceHandle": "top-source",
+   "targetHandle": "bottom-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#DC2626",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#DC2626",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-ru_1-ru_3",
+   "source": "ru_1",
+   "target": "ru_3",
+   "sourceHandle": "top-source",
+   "targetHandle": "bottom-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#DC2626",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#DC2626",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-ru_2-ru_4",
+   "source": "ru_2",
+   "target": "ru_4",
+   "sourceHandle": "top-source",
+   "targetHandle": "bottom-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#DC2626",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#DC2626",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-ru_3-ru_5",
+   "source": "ru_3",
+   "target": "ru_5",
+   "sourceHandle": "top-source",
+   "targetHandle": "bottom-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#DC2626",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#DC2626",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-ru_4-ru_6",
+   "source": "ru_4",
+   "target": "ru_6",
+   "sourceHandle": "top-source",
+   "targetHandle": "bottom-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#DC2626",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#DC2626",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  },
+  {
+   "id": "e-ru_5-ru_7",
+   "source": "ru_5",
+   "target": "ru_7",
+   "sourceHandle": "top-source",
+   "targetHandle": "bottom-target",
+   "type": "bezier",
+   "style": {
+    "stroke": "#DC2626",
+    "strokeWidth": 3
+   },
+   "data": {
+    "strokeColor": "#DC2626",
+    "strokeWidth": 3,
+    "edgeType": "bezier",
+    "strokeDasharray": "6 5"
+   }
+  }
+ ],
+ "viewport": {
+  "x": 960.0,
+  "y": 540.0,
+  "zoom": 0.252
+ },
+ "canvasBgColor": "#FFFCF5",
+ "canvasBgImage": null
+}
